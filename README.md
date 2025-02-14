@@ -18,5 +18,5 @@
 ![project board kanban](docs/project_board.png)
 
 ## Solicitar el GitHub Backpack
-
+Estoy esperando a que me lo acepten 
 ![github backpack](docs/backpack.png)
